@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Belabz/Dev/Lab/Udemy/React/react-native-the-practical-guide/course-project/awesome-place/app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/Belabz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/f3a286c74a96518231539f2af4346d1f/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Belabz/Dev/Lab/Udemy/React/react-native-the-practical-guide/course-project/awesome-places/app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/Belabz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/f3a286c74a96518231539f2af4346d1f/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
