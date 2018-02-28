@@ -2,9 +2,11 @@
 
 # expo
 .expo/
+.gitignore
 
 # dependencies
 /node_modules
+/functions/awesome-places.json
 
 # misc
 .env.local
